@@ -107,7 +107,7 @@ ENABLE_SCHEDBOOST := true
 
 # SHRP flags
 SHRP_PATH := device/nokia/NB1
-SHRP_MAINTAINER := emufan4568
+SHRP_MAINTAINER := prokostas
 SHRP_DEVICE_CODE := NB1
 SHRP_EDL_MODE := 1
 SHRP_EXTERNAL := /external_sd
